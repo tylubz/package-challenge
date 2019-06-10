@@ -8,7 +8,7 @@ public class APIException extends RuntimeException {
     /**
      * Constructor with parameter.
      *
-     * @param message the error message.
+     * @param message the error message
      */
     public APIException(String message) {
         super(message);
